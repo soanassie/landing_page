@@ -1,0 +1,10 @@
+.button {
+	padding: 10px 30px;
+	border: none;
+	background-color: navajowhite;
+	border-radius: 4px;
+	color:purple;
+	font-size: 18px;
+	font-weight: 100px;
+	box-shadow: 3px 5px 20px rgb(230 230 230/ 50%);
+}
